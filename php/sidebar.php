@@ -1,4 +1,3 @@
-
 <nav>
 	<input type="search" placeholder="search..." class="ds-input" autocomplete="off" spellcheck="false" />
 	<?php
